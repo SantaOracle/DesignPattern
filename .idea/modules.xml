@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AdapterMode/AdapterMode.iml" filepath="$PROJECT_DIR$/AdapterMode/AdapterMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorMode/IteratorMode.iml" filepath="$PROJECT_DIR$/IteratorMode/IteratorMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethodMode/TemplateMethodMode.iml" filepath="$PROJECT_DIR$/TemplateMethodMode/TemplateMethodMode.iml" />
     </modules>
   </component>
 </project>
