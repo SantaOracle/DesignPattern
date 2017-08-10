@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodMode/FactoryMethodMode.iml" filepath="$PROJECT_DIR$/FactoryMethodMode/FactoryMethodMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorMode/IteratorMode.iml" filepath="$PROJECT_DIR$/IteratorMode/IteratorMode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonMode/SingletonMode.iml" filepath="$PROJECT_DIR$/SingletonMode/SingletonMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateMethodMode/TemplateMethodMode.iml" filepath="$PROJECT_DIR$/TemplateMethodMode/TemplateMethodMode.iml" />
     </modules>
   </component>
